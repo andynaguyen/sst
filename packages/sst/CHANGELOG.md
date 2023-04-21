@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.5.8
+
+### Patch Changes
+
+- [#2544](https://github.com/serverless-stack/sst/pull/2544) [`2ce509486`](https://github.com/serverless-stack/sst/commit/2ce5094860d32c7ce0c068872198bcb5c727a9b2) Thanks [@andynaguyen](https://github.com/andynaguyen)! - sst secrets: load secrets from .env files
+
 ## 2.5.7
 
 ### Patch Changes
